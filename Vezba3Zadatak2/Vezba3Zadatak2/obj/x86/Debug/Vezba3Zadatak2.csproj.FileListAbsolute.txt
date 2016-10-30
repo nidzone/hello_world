@@ -1,0 +1,9 @@
+c:\users\it33-2016\documents\visual studio 2010\Projects\Vezba3Zadatak2\Vezba3Zadatak2\bin\Debug\Vezba3Zadatak2.exe
+c:\users\it33-2016\documents\visual studio 2010\Projects\Vezba3Zadatak2\Vezba3Zadatak2\bin\Debug\Vezba3Zadatak2.pdb
+c:\users\it33-2016\documents\visual studio 2010\Projects\Vezba3Zadatak2\Vezba3Zadatak2\obj\x86\Debug\Vezba3Zadatak2.exe
+c:\users\it33-2016\documents\visual studio 2010\Projects\Vezba3Zadatak2\Vezba3Zadatak2\obj\x86\Debug\Vezba3Zadatak2.pdb
+C:\Users\nidzo\Desktop\Vezba3Zadatak2-20161024T174141Z\Vezba3Zadatak2\Vezba3Zadatak2\obj\x86\Debug\Vezba3Zadatak2.exe
+C:\Users\nidzo\Desktop\Vezba3Zadatak2-20161024T174141Z\Vezba3Zadatak2\Vezba3Zadatak2\obj\x86\Debug\Vezba3Zadatak2.pdb
+C:\Users\nidzo\Desktop\Vezba3Zadatak2-20161024T174141Z\Vezba3Zadatak2\Vezba3Zadatak2\obj\x86\Debug\Vezba3Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\nidzo\Desktop\Vezba3Zadatak2-20161024T174141Z\Vezba3Zadatak2\Vezba3Zadatak2\bin\Debug\Vezba3Zadatak2.exe
+C:\Users\nidzo\Desktop\Vezba3Zadatak2-20161024T174141Z\Vezba3Zadatak2\Vezba3Zadatak2\bin\Debug\Vezba3Zadatak2.pdb
